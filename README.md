@@ -2,7 +2,7 @@
 
 **A simple Spring Boot 2.x app to send hello world message to a user**
 
-Hello World, Xuan Xuan
+Hello World, Xuan Xuan! yay
 
 ## How to Run Application
 
